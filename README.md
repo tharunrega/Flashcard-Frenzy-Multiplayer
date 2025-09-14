@@ -27,8 +27,8 @@ Flashcard Frenzy is a real-time multiplayer educational game that combines learn
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd flashcard-frenzy
+git clone https://github.com/tharunrega/Flashcard-Frenzy-Multiplayer.git
+cd Flashcard-Frenzy-Multiplayer
 ```
 
 ### 2. Install Dependencies
@@ -133,7 +133,7 @@ npm run lint     # Run ESLint
 ### Vercel Deployment
 
 1. Push code to GitHub repository
-2. Connect repository to [Vercel](https://vercel.com)
+2. Connect repository to [Vercel](https://flashcard-frenzy-multiplayer-ten.vercel.app/)
 3. Configure environment variables in Vercel dashboard
 4. Deploy application
 
@@ -173,3 +173,4 @@ This project is licensed under the MIT License. See LICENSE file for details.
 - [Supabase Documentation](https://supabase.com/docs)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [React Documentation](https://react.dev)
+
